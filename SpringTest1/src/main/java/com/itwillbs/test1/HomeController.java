@@ -33,6 +33,8 @@ public class HomeController {
 		
 		model.addAttribute("serverTime", formattedDate );
 		
+		// GIT 연동 테스트
+		
 		return "home";
 		// => servlet-context.xml 파일에 기술된 InternalResourceViewResolver 에 의해
 		//    prefix 값과 suffix 값을 return 문 뒤의 문자열과 결합하여 포워딩 할 페이지 경로가 생성됨
