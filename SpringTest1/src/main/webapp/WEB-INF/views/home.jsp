@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>
-	1차 커밋테스트
+	Hello world!  
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
