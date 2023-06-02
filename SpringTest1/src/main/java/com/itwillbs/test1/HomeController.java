@@ -33,7 +33,7 @@ public class HomeController {
 		
 		model.addAttribute("serverTime", formattedDate );
 		
-		// GIT 연동 테스트
+		// GIT 연동 테스트2
 		
 		return "home";
 		// => servlet-context.xml 파일에 기술된 InternalResourceViewResolver 에 의해

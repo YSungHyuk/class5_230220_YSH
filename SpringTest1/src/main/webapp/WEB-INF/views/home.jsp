@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>
-	GIT 연동 테스트 - home.jsp 파일 변경  
+	GIT 연동 테스트 - home.jsp 파일 변경2 
 </h1>
 <P>  The time on the server is ${serverTime}. </P>
 </body>
