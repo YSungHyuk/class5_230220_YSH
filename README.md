@@ -1,2 +1,2 @@
 # class5_230220_YSH
-# 연습용_respo
+# 연습용_repo
